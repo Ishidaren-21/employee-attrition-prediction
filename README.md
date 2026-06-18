@@ -99,6 +99,3 @@ The Random Forest Classifier achieved the highest accuracy and was selected as t
 - Scikit-learn
 - Jupyter Notebook
 
----
-
-## Project Structure
